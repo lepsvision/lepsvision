@@ -2,6 +2,7 @@
 - 👀 Currently I’m learning mobile apps develoment via javascript and frameworks (React and Angular)
 
 Skills: HTML/CSS/SCSS, JavaScript, React, Angular, Adobe Illustrator, Gulp.
+
 Languages: English - Intermediate (B1), Francais - Elementary (A2).
 
 My projects: 
