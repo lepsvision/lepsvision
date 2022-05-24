@@ -10,7 +10,7 @@ https://lepsvision.github.io/breathe-and-reboot/ - responsive minimalistic websi
 about meditations "Breathe and reboot";
 https://lepsvision.github.io/earthlings/ - responsive website about trips "Earthlings" with atmospheric and cozy design.
 
-Connect with me:
+# Connect with me:
 
 <a href="https://www.linkedin.com/in/lepsvidze/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
