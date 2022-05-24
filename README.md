@@ -6,9 +6,9 @@ Languages: English - Intermediate (B1), Francais - Elementary (A2).
 
 My projects: 
 
-responsive minimalistic website 
-about meditations "Breathe and reboot" - https://lepsvision.github.io/breathe-and-reboot/ ;
-responsive website about trips "Earthlings" - https://lepsvision.github.io/earthlings/ .
+https://lepsvision.github.io/breathe-and-reboot/ - responsive minimalistic website 
+about meditations "Breathe and reboot";
+https://lepsvision.github.io/earthlings/ - responsive website about trips "Earthlings" .
 
 Connect with me:
 
