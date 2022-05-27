@@ -12,7 +12,7 @@ about meditations;
 
 [Earthlings](https://lepsvision.github.io/earthlings/) - responsive website about trips with atmospheric and cozy design;
 
-[Todo App on JS](https://lepsvision.github.io/js-todo-app/) - simple app on js, which helps you to tick any tasks;
+[Todo App on JS](https://lepsvision.github.io/js-todo-app/) - simple app on js will help you to tick off any tasks;
 
 [Snake Game on JS](https://lepsvision.github.io/js-snake/) - js-game where u can have a rest and feed the snake with grenades :)
 
