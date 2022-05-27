@@ -10,7 +10,11 @@ My projects:
 [Breathe and reboot](https://lepsvision.github.io/breathe-and-reboot/) - responsive minimalistic website 
 about meditations;
 
-[Earthlings](https://lepsvision.github.io/earthlings/) - responsive website about trips with atmospheric and cozy design.
+[Earthlings](https://lepsvision.github.io/earthlings/) - responsive website about trips with atmospheric and cozy design;
+
+[Todo App on JS](https://lepsvision.github.io/js-todo-app/) - simple app on js, which helps you to tick any tasks;
+
+[Snake Game on JS[(https://lepsvision.github.io/js-snake/) - js-game where u can have a rest and feed the snake with grenades :)
 
 # Connect with me:
 
