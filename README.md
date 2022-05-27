@@ -14,7 +14,7 @@ about meditations;
 
 [Todo App on JS](https://lepsvision.github.io/js-todo-app/) - simple app on js, which helps you to tick any tasks;
 
-[Snake Game on JS[(https://lepsvision.github.io/js-snake/) - js-game where u can have a rest and feed the snake with grenades :)
+[Snake Game on JS](https://lepsvision.github.io/js-snake/) - js-game where u can have a rest and feed the snake with grenades :)
 
 # Connect with me:
 
