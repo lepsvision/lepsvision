@@ -16,7 +16,9 @@ about meditations;
 
 [Weather App](https://lepsvision.github.io/react-js-app-weather/) - comfortable weather app on react.js;
 
-[Snake Game on JS](https://lepsvision.github.io/js-snake/) - js-game where u can have a rest and feed the snake with grenades :)
+[Snake Game on JS](https://lepsvision.github.io/js-snake/) - js-game where u can have a rest and feed the snake with grenades;
+
+[Calculator on JS](https://lepsvision.github.io/calculator-js/) - simple-dimple calculator on vanilla js :)
 
 # Connect with me:
 
