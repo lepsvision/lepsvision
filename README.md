@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Natallya and I'm looking for a job on trainee or junior frontend position
-- 👀 Currently I’m learning mobile apps develoment via javascript and frameworks (React and Angular)
+- 👀 Currently I’m learning apps develoment via Javascript and React
 
-Skills: HTML/CSS/SCSS, JavaScript, React, Angular, Adobe Illustrator, Gulp.
+Skills: HTML/CSS/SCSS, JavaScript, React, Adobe Illustrator, Gulp.
 
 Languages: English - Intermediate (B1), Francais - Elementary (A2).
 
