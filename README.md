@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Natallya and I'm looking for a job on trainee or junior frontend position
-- 👀 Currently I’m learning apps development via Javascript and React
+👋 Hi, I’m Natallya and I'm looking for a job on trainee or junior frontend position
+👀 Currently I’m learning apps development via Javascript and React
 
 Skills: HTML/CSS/SCSS, JavaScript, React, Adobe Illustrator, Gulp.
 
