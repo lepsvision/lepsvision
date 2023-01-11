@@ -15,6 +15,8 @@ about meditations;
 
 [Snake Game on JS](https://lepsvision.github.io/js-snake/) - js-game where u can have a rest and feed the snake with grenades;
 
+[Weather App](https://github.com/lepsvision/weather-app) - minimalistic and lovely weather app on js;
+
 [Calculator on JS](https://lepsvision.github.io/calculator-js/) - simple-dimple calculator on vanilla js :)
 
 # Connect with me:
